@@ -1,0 +1,38 @@
+<RCC>
+  <qresource prefix="ativa_menu">
+    <file>imagens/menu-4-24.png</file>
+  </qresource>
+  <qresource prefix="minimizar">
+    <file>imagens/minimize.png</file>
+  </qresource>
+  <qresource prefix="toggle_mudar_jan">
+    <file>imagens/icons8-toggle-full-screen-24.png</file>
+  </qresource>
+  <qresource prefix="close_fechar">
+    <file>imagens/icons8-delete-24.png</file>
+  </qresource>
+  <qresource prefix="bot">
+    <file>imagens/telegram.png</file>
+  </qresource>
+  <qresource prefix="deepnude">
+    <file>imagens/icons8-bottom-24.png</file>
+  </qresource>
+  <qresource prefix="banco_de_dados">
+    <file>imagens/data-configuration-24.png</file>
+  </qresource>
+  <qresource prefix="home">
+    <file>imagens/home-5-24.png</file>
+  </qresource>
+  <qresource prefix="snes">
+    <file>imagens/joystick-2-24.png</file>
+  </qresource>
+  <qresource prefix="server">
+    <file>imagens/server-24.png</file>
+  </qresource>
+  <qresource prefix="configuracoes">
+    <file>imagens/services-24.png</file>
+  </qresource>
+  <qresource prefix="camera">
+    <file>imagens/screenshot-24.png</file>
+  </qresource>
+</RCC>
